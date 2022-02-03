@@ -7,3 +7,6 @@ device: 'console'
 
 >SAMSUNG_IGNORE
 path: ./data.db
+
+>HEROKU_IGNORE
+path: ./data.db
