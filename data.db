@@ -1,0 +1,9 @@
+>YTVC_KEY
+key: '1659148549987501037465984598695'
+
+>ALLOWED_DEVICES
+device: 'tv-platform'
+device: 'console'
+
+>SAMSUNG_IGNORE
+path: ./data.db
